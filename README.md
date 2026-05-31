@@ -19,7 +19,7 @@ A lightweight Bash-based vulnerability scanner that performs basic security chec
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/mini-vulnerability-scanner.git
+git clone https://github.com/yourusername/Simple_Vuln_scanner.git
 cd Simple_vuln_scanner
 chmod +x simple_vuln_scanner.sh
 ```
